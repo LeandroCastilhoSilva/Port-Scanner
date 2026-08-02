@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Port Scanner
 
 Um scanner de portas TCP feito em Python. Ele testa um computador (IP ou domínio) e diz quais portas estão abertas, o que provavelmente está rodando nelas, e às vezes até a versão do programa.
